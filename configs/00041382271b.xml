@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <phone-settings>
+        <user_pname idx="1" perm="RW">202</user_pname>
+        <user_name idx="1" perm="RW">202</user_name>
+        <user_realname idx="1" perm="RW">202</user_realname>
+        <user_pass idx="1" perm="RW">1792636674b0ddb761b3d0d4713210e5</user_pass>
+        <user_host idx="1" perm="RW">172.16.32.153</user_host>
+        <user_srtp idx="1" perm="RW">off</user_srtp>
+        <user_dp_str idx="1" perm="RW">!([^#]%2b)#!sip:\1@\d!d</user_dp_str>
+        <answer_after_policy perm="RW">idle</answer_after_policy>
+        <user_mailbox idx="1" perm="">*001</user_mailbox>
+    </phone-settings>
+</settings>

@@ -1,0 +1,8 @@
+{
+  "url": "http://<pbx_host>:<http_port>/",
+  "http_port": 84,
+  "pbx_host": "172.16.32.153",
+  "pbx_sip_port": "5060",
+  "vm_extension": "*001",
+  "feature_transfer": "**"
+}

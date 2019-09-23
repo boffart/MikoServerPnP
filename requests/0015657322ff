@@ -1,0 +1,17 @@
+{
+    "mac": "0015657322ff",
+    "phone_ip": "172.16.32.148",
+    "phone_port": "5059",
+    "vendor": "",
+    "model": "",
+    "method": "SUBSCRIBE",
+    "Via": "Via: SIP/2.0/UDP 172.16.32.148:5059;branch=z9hG4bK42032775\r",
+    "From": "From: <sip:MAC0015657322ff@224.0.1.75>;tag=42032772\r",
+    "To": "To: <sip:MAC0015657322ff@224.0.1.75>\r",
+    "Call-ID": "Call-ID: 42032772@172.16.32.148\r",
+    "Event": {
+        "vendor": "yealink",
+        "model": "t21d",
+        "version": "34.72.14.6\r"
+    }
+}
