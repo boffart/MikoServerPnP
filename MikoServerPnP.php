@@ -396,7 +396,7 @@ class MikoServerPnP{
     }
 
     /**
-     * Создает конфигурационный файл для Yealink телефона.
+     * Создает конфигурационный файл для Snom телефона.
      * @param $mac
      * @param $sip_peers
      * @return string
